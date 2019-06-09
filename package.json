@@ -1,0 +1,23 @@
+{
+  "name": "strip-margin.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiogondim/strip-margin.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiogondim/strip-margin.js/issues"
+  },
+  "homepage": "https://github.com/caiogondim/strip-margin.js#readme",
+  "devDependencies": {
+    "jest": "24.8.0"
+  }
+}
