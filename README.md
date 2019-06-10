@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-npm install strip-margin -S
+npm install @caiogondim/strip-margin -S
 ```
 
 ### Usage

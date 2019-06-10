@@ -1,5 +1,5 @@
 {
-  "name": "strip-margin",
+  "name": "@caiogondim/strip-margin",
   "version": "1.0.0",
   "description": "stripMargin from Scala to JS",
   "main": "index.js",
