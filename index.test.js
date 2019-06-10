@@ -2,7 +2,7 @@
 
 const stripMargin = require('./index')
 
-it('removes whitespace to the left of margin symbol', () => {
+it('removes whitespace to the left of margin char', () => {
   const input = `
     |Four score and
     |seven years ago`
@@ -14,7 +14,7 @@ seven years ago`
   expect(stripMargin(input)).toEqual(output)
 })
 
-it('accepts custom margin symbol', () => {
+it('accepts custom margin char', () => {
   const input = `
     #Four score and
     #seven years ago`

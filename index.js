@@ -1,10 +1,10 @@
 /**
  * @param {String} str
- * @param {String} marginSymbol
+ * @param {String} marginChar
  * @returns {String}
  */
-function stripMargin(str, marginSymbol = '|') {
-  const regexp = new RegExp(`[ \\t]+\\${marginSymbol}`, 'g')
+function stripMargin(str, marginChar = '|') {
+  const regexp = new RegExp(`[ \\t]+\\${marginChar}`, 'g')
   return str.replace(regexp, '')
 }
 
