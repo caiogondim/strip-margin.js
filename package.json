@@ -10,8 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/caiogondim/strip-margin.js.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "stripMargin",
+    "Scala",
+    "multiline",
+    "multi-line"
+  ],
+  "author": "Caio Gondim",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/caiogondim/strip-margin.js/issues"
