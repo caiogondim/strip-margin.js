@@ -1,7 +1,7 @@
 {
-  "name": "strip-margin.js",
+  "name": "strip-margin",
   "version": "1.0.0",
-  "description": "",
+  "description": "stripMargin from Scala to JS",
   "main": "index.js",
   "scripts": {
     "test": "jest"
